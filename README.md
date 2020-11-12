@@ -3,7 +3,7 @@
 ### Hi there, I am Abheendra Sibu 👋
 
 [![linkedin](https://img.shields.io/website?label=Abheendra&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/abheendra/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Abheendra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abheendra)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Abheendra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abheendra77)
 
 
 ### I'm an Undergrad Student and a Data Science Enthusiast!
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 
 [website]: ---
-[twitter]: https://twitter.com/abheendra
+[twitter]: https://twitter.com/abheendra77
 [instagram]: https://www.instagram.com/abheendra/
 [linkedin]: https://www.linkedin.com/in/abheendra/
