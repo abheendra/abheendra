@@ -1,49 +1,79 @@
-
-
-### Hi there, I am Abheendra Sibu 👋
-
-[![linkedin](https://img.shields.io/website?label=Abheendra&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/abheendra/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Abheendra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abheendra77)
-
-
-### I'm an Undergrad Student and a Data Science Enthusiast!
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a project related to recommendation system
-- 🌱 I’m currently learning Data Science...
-- 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning or Data Science... Please do put down a mail, if you have creative ideas we can work on.
-- 📫 How to reach me: abheendra@gmail.com 
-- ⚡ Fun fact: I love gaming
-
-### Connect with me:
-
-[<img align="left" alt="sand47 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sand47 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sand47 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Pytorch" width="40px" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" />
-<img align="left" alt="scikit-learn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="sql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Seaborn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/seaborn/seaborn.png" />
-<br />
-<br />
-<br />
-<br />
+<h1 align="center">Hey there, I'm <span style="color:#00BFFF;">Abheendra Sibu</span> 👋</h1>
+<p align="center">
+  🌍 Based in Berlin | 📊 Data Analyst | 🤖 AI Explorer<br>
+  🎓 MSc Analytics & AI @ ESMT Berlin | Ex-Mercedes-Benz, Infosys<br>
+  💼 Actively seeking full-time opportunities in Data Science, Analytics, or AI
+</p>
 
 ---
 
-<img align="left" alt="Abheendra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abheendra&show_icons=true&hide_border=true&count_private=true" />
+### 📘 Explore My Profile
 
+<p align="center">
+  <b>Click the buttons below to learn more!</b><br><br>
+  <a href="#education"><img src="https://img.shields.io/badge/-Education-black?style=for-the-badge" /></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/-Experience-black?style=for-the-badge" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/-Projects-black?style=for-the-badge" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/-Skills-black?style=for-the-badge" /></a>
+  <a href="#certifications"><img src="https://img.shields.io/badge/-Certifications-black?style=for-the-badge" /></a>
+</p>
 
-[website]: ---
-[twitter]: https://twitter.com/abheendra77
-[instagram]: https://www.instagram.com/abheendra/
-[linkedin]: https://www.linkedin.com/in/abheendra/
+---
+
+<details id="education">
+  <summary><h3>🎓 Education</h3></summary>
+  <ul>
+    <li><strong>ESMT Berlin – Germany</strong><br>MSc in Analytics and Artificial Intelligence (2023–2025)</li>
+    <li><strong>SRM Institute of Science and Technology – India</strong><br>B.Tech in Mechanical Engineering (2017–2021)</li>
+  </ul>
+</details>
+
+<details id="experience">
+  <summary><h3>💼 Experience</h3></summary>
+  <ul>
+    <li><strong>Mercedes-Benz AG – Germany</strong>
+      <ul>
+        <li><em>Working Student (Oct 2024 – Present)</em><br>• Built Power BI dashboards<br>• Improved BI reporting by 15%<br>• Led A/B testing and boosted lead gen by 12%</li>
+        <li><em>Data Analyst Intern (Apr 2024 – Sep 2024)</em><br>• Reduced ERP query time by 30%<br>• Delivered SAP ERP enhancements</li>
+      </ul>
+    </li>
+    <li><strong>Infosys – India</strong><br><em>Systems Engineer (Mar 2022 – Sep 2023)</em><br>• Worked on enterprise SAP and digital tools</li>
+  </ul>
+</details>
+
+<details id="projects">
+  <summary><h3>🚀 Projects</h3></summary>
+  <ul>
+    <li><strong>Heart Disease Prediction</strong><br>
+    • ML models (Logistic Regression, XGBoost) on 7,500+ records<br>
+    • Used one-hot encoding, scaling — improved detection by 15%</li>
+  </ul>
+</details>
+
+<details id="skills">
+  <summary><h3>🧰 Skills & Tools</h3></summary>
+  <ul>
+    <li><strong>Programming:</strong> Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PySpark), SQL (MySQL), ABAP</li>
+    <li><strong>Visualization:</strong> Power BI, Tableau, Matplotlib</li>
+    <li><strong>Cloud & Big Data:</strong> Azure, GCP, BigQuery, Google Analytics, Docker</li>
+    <li><strong>ETL:</strong> Data Cleaning, Feature Engineering, Pipelines</li>
+    <li><strong>Collaboration:</strong> Jira, Asana, Microsoft Teams, Confluence</li>
+  </ul>
+</details>
+
+<details id="certifications">
+  <summary><h3>📜 Certifications</h3></summary>
+  <ul>
+    <li>📘 Microsoft Azure – Explore Core Data Concepts (2023)</li>
+    <li>📊 Microsoft – Data Analytics with Power BI (2023)</li>
+    <li>📈 Google – Marketing Analytics (2023)</li>
+    <li>🤖 Machine Learning Foundations (2020)</li>
+  </ul>
+</details>
+
+---
+
+<p align="center">
+  <i>“Turning data into impact, one insight at a time.”</i><br>
+  📫 <a href="mailto:abheendra@gmail.com">abheendra@gmail.com</a> | 🌐 <a href="https://www.linkedin.com/in/abheendra">LinkedIn</a>
+</p>
